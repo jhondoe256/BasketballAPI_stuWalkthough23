@@ -1,0 +1,15 @@
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\bin\Debug\net7.0\Basketball.Models.deps.json
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\bin\Debug\net7.0\Basketball.Models.dll
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\bin\Debug\net7.0\Basketball.Models.pdb
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\bin\Debug\net7.0\Basketball.Data.dll
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\bin\Debug\net7.0\Basketball.Data.pdb
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.AssemblyInfoInputs.cache
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.AssemblyInfo.cs
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.csproj.CopyComplete
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.dll
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\refint\Basketball.Models.dll
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\Basketball.Models.pdb
+C:\ElevenFiftyBlueBadge165\API_WKTH\Basketball.Models\obj\Debug\net7.0\ref\Basketball.Models.dll
